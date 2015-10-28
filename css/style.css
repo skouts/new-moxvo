@@ -14,8 +14,8 @@
 
 	body
 	{
-        background-color: #669966 ;
-		background-image: url('images/1half2.png') , url('images/2half2.png');
+        background-color: #1e3c32 ;
+		"background-image: url('images/1half2.png') , url('images/2half2.png');"
 		background-repeat:			no-repeat,           no-repeat;
         background-position: left,right;
 		background-size: auto, auto ;
@@ -510,8 +510,7 @@
 					display: none;
 				}
 .photo {
-    padding-right: 100px;
     float: right;
-    margin-top: 2%;
+   max-height: 100%;
   
 }
