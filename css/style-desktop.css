@@ -101,7 +101,7 @@
 			
 	#wrapper
 	{
-		width: 45em;
+		width: 48em;
 		margin: 0 auto;
 		opacity: 0.00001;
 	}
@@ -220,7 +220,7 @@
 
 	#main
 	{
-		width: 45em;
+		width: 48em;
 		background: #ffffff;
 	  box-shadow: -17px 19px 33px -11px rgba(0,0,0,0.40);
 	}
@@ -231,7 +231,7 @@
 		position: absolute;
 		top: 0;
 		left: 0;
-		width: 45em;
+		width: 48em;
         background-image:url(images/texture.jpg);
         background-color: #908378;
         background-blend-mode: overlay;
